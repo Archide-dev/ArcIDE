@@ -42,7 +42,7 @@
 - **🤖 Autonomous AI Agents** — Agents that read your workspace, plan changes, and execute multi-file edits.
 - **🏠 Local-First AI** — Run DeepSeek Coder V2, Llama 3, Mistral, CodeLlama, and any Ollama model directly on your machine.
 - **🔒 Total Privacy** — Your code never leaves your laptop. Air-gapped compatible.
-- **☁️ Cloud Models Too** — Optionally connect Claude, Gemini, or GPT-5 using your own API keys.
+- **☁️ Cloud Models Too** — Optionally connect Claude, Gemini, or GPT-4 using your own API keys.
 - **⚡ Blazing Fast** — Built with Tauri + React. Uses a fraction of the RAM compared to Electron-based editors.
 - **🎨 Beautiful UI** — Modern dark theme designed for long coding sessions.
 
@@ -97,15 +97,13 @@ You can also connect **Claude 4.6 Sonnet**, **Gemini Pro**, or **GPT-5** via API
 - [ ] Collaborative editing
 - [ ] Linux & macOS builds
 
-## 🤝 Contributing
+## 💬 Feedback & Bug Reports
 
-We welcome contributions! If you'd like to help improve ArcIDE:
+We'd love to hear from you! If you encounter any bugs or have feature requests:
 
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Open an [Issue](https://github.com/Archide-dev/ArcIDE/issues) on this repository
+2. Describe the problem or feature request in detail
+3. Our team will review and respond as quickly as possible
 
 ## 📄 License
 
@@ -115,7 +113,7 @@ ArcIDE is proprietary software. See [LICENSE](LICENSE) for details.
 
 - **Website:** [arcide.xyz](https://www.arcide.xyz)
 - **Blog:** [arcide.xyz/blog](https://www.arcide.xyz/blog)
-- **YouTube:** [ArcIDE Channel](https://youtube.com)
+- **GitHub:** [Archide-dev/ArcIDE](https://github.com/Archide-dev/ArcIDE)
 
 ---
 
