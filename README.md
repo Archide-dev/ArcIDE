@@ -42,7 +42,7 @@
 - **🤖 Autonomous AI Agents** — Agents that read your workspace, plan changes, and execute multi-file edits.
 - **🏠 Local-First AI** — Run DeepSeek Coder V2, Llama 3, Mistral, CodeLlama, and any Ollama model directly on your machine.
 - **🔒 Total Privacy** — Your code never leaves your laptop. Air-gapped compatible.
-- **☁️ Cloud Models Too** — Optionally connect Claude, Gemini, or GPT-4 using your own API keys.
+- **☁️ Cloud Models Too** — Optionally connect Claude, Gemini, or GPT-5 using your own API keys.
 - **⚡ Blazing Fast** — Built with Tauri + React. Uses a fraction of the RAM compared to Electron-based editors.
 - **🎨 Beautiful UI** — Modern dark theme designed for long coding sessions.
 
@@ -77,7 +77,7 @@ Then in ArcIDE: **Settings** → **AI Providers** → Enable **Ollama** → Sele
 | Mistral | 7B | Lightweight environments, laptops |
 | Qwen 2.5 Coder | 7B | Multilingual projects |
 
-You can also connect **Claude 3.5 Sonnet**, **Gemini Pro**, or **GPT-4** via API keys.
+You can also connect **Claude 4.6 Sonnet**, **Gemini Pro**, or **GPT-5** via API keys.
 
 ## 🔧 Tech Stack
 
